@@ -19,11 +19,11 @@ public class IfElseTeacher : MonoBehaviour
 
         if (number < 0)
         {
-           string sign = "음수";
+            text.text = "음수";
         }
         else if (number > 0)
         {
-            string sign = "양수";
+            text.text = "양수";
         }
         else
         {
@@ -38,5 +38,7 @@ public class IfElseTeacher : MonoBehaviour
         {
             text.text += " 홀수";
         }
+
+        
     }
 }
