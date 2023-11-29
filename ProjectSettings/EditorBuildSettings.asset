@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Calcurator_Kwang.unity
+    guid: 8bb3f6ec74e0aa04ea67734cc5da115e
   m_configObjects: {}
